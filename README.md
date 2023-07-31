@@ -14,7 +14,7 @@ If you are currently seeking new job opportunities or in need of technical speci
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -23,9 +23,15 @@ If you are currently seeking new job opportunities or in need of technical speci
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Instruments:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://scontent.fnic2-2.fna.fbcdn.net/v/t39.30808-1/327172528_606149571273191_1772828873600441972_n.png" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://uploads-ssl.webflow.com/5dc6051d242707b368c29acb/636c1dec76bf770462051ecb_LinkedIn-Sales-Navigator-Logo-Icon.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://uploads-ssl.webflow.com/5dc6051d242707b368c29acb/5f15177d3615d73e9fd334b8_Trello-Logo.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://uploads-ssl.webflow.com/5dc6051d242707b368c29acb/5f1408fae6e3520240b263ab_GoogleSheets-Logo.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
