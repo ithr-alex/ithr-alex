@@ -26,7 +26,7 @@ If you are currently seeking new job opportunities or in need of technical speci
 ### 🛠 Instruments:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-original.svg" title="OAI" alt="OAI" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="OAI" alt="OAI" width="40" height="40"/>&nbsp;
   <img src="https://amazinghiring.com/wp-content/themes/ah/img/logo-new.svg" title="AH" alt="AH" height="40"/>&nbsp;
   <img src="https://uploads-ssl.webflow.com/5dc6051d242707b368c29acb/636c1dec76bf770462051ecb_LinkedIn-Sales-Navigator-Logo-Icon.svg" title="Sales Navigator" alt="Sales Navigator" width="40" height="40"/>&nbsp;
   <img src="https://uploads-ssl.webflow.com/5dc6051d242707b368c29acb/5f15177d3615d73e9fd334b8_Trello-Logo.svg" title="Trell" alt="Trello" width="40" height="40"/>&nbsp;
