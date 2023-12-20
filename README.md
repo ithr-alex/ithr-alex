@@ -10,7 +10,7 @@ If you are currently seeking new job opportunities or in need of technical speci
 - 🌱 I’m currently learning Python and SQL
 
 - 💬 Ask me about technical recruitment 
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-alexsh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ithr_alex) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alex.sheshnev@gmail.com) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ithr_alex/playlists) [!Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/alex_sheshnev)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-alexsh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ithr_alex) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alex.sheshnev@gmail.com) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ithr_alex/playlists) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/alex_sheshnev) 
 
 ---
 
